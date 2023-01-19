@@ -1,0 +1,2 @@
+# KauppaTietokanta
+Myymäläketjun tietokantasuunnitelma
